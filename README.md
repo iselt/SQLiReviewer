@@ -1,2 +1,2 @@
 # SQLiSearch
-Search SQL injection vulnerabilities
+Search SQL injection vulnerabilities for code review
